@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Morimiue's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Morimiue&hide=css,html,javascript,postscript,scss&count_private=true&theme=shadow_red)
+<!-- ![Morimiue's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Morimiue&hide=css,html,javascript,postscript,scss&count_private=true&theme=shadow_red) -->
